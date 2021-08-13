@@ -1,0 +1,1 @@
+{"version":3,"file":"js/4891-c77861982c8577097e51.chunk.js","mappings":"qKAEe,SAASA,IACtB,OAAO","sources":["webpack://prsdigg/./app/packs/apps/dashboard/pages/CommentsPage/CommentsPage.tsx"],"sourcesContent":["import React from 'react';\n\nexport default function CommentsPage() {\n  return <div>建设中...</div>;\n}\n"],"names":["CommentsPage"],"sourceRoot":""}
