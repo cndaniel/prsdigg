@@ -1,0 +1,7 @@
+mutation UpdateArticle($input: UpdateArticleMutationInput!) {
+  updateArticle(input: $input) {
+    id
+    uuid
+    updatedAt
+  }
+}
